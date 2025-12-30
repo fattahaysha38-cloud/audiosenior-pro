@@ -1,6 +1,13 @@
 {
-  "build": {
-    "preview": { "android": { "buildType": "apk" } },
-    "production": { "android": { "buildType": "apk" } }
+  "expo": {
+    "name": "audiosenior-pro",
+    "slug": "audiosenior-pro",
+    "version": "1.0.0",
+    "owner": "fattahfattah",
+    "extra": {
+      "eas": {
+        "projectId": "seu-id-aqui"
+      }
+    }
   }
 }
