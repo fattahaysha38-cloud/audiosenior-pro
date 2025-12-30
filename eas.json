@@ -4,9 +4,12 @@
     "slug": "audiosenior-pro",
     "version": "1.0.0",
     "owner": "fattahfattah",
+    "android": {
+      "package": "com.fattahfattah.audioseniorpro"
+    },
     "extra": {
       "eas": {
-        "projectId": "seu-id-aqui"
+        "projectId": "seu-project-id"
       }
     }
   }
