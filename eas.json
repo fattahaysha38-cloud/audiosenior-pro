@@ -3,11 +3,9 @@
     "preview": {
       "android": {
         "buildType": "apk"
-      }
-    },
-    "production": {
-      "android": {
-        "buildType": "apk"
+      },
+      "env": {
+        "APP_OWNER": "fattahfattah"
       }
     }
   }
