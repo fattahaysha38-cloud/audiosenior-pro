@@ -1,8 +1,12 @@
 {
-  "build": {
-    "production": {
-      "android": {
-        "gradleCommand": ":app:assembleRelease"
+  "expo": {
+    "name": "audiosenior-pro",
+    "slug": "audiosenior-pro",
+    "version": "1.0.0",
+    "owner": "fattahfattah",
+    "extra": {
+      "eas": {
+        "projectId": "seu-project-id-aqui"
       }
     }
   }
