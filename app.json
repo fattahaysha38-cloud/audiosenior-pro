@@ -1,23 +1,15 @@
 {
   "expo": {
-    "name": "AudioSenior Pro",
+    "name": "audiosenior-pro",
     "slug": "audiosenior-pro",
     "version": "1.0.0",
-    "orientation": "portrait",
-    "icon": "./assets/icon.png",
-    "userInterfaceStyle": "light",
-    "ios": {
-      "supportsTablet": true
-    },
+    "owner": "fattahfattah",
     "android": {
-      "package": "com.fattah.audioseniorpro",
-      "adaptiveIcon": {
-        "backgroundColor": "#ffffff"
-      }
+      "package": "com.fattahfattah.audioseniorpro"
     },
     "extra": {
       "eas": {
-        "projectId": "6d700128-b7a7-4c36-b42b-e06c3c2a8fc5"
+        "projectId": "seu-project-id"
       }
     }
   }
